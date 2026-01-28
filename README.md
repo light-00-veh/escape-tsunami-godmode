@@ -80,6 +80,10 @@ The script is open source and free to use, modify, and redistribute.
   </a>
 </p>
 
+<h1 align="center" style="color:red; letter-spacing:3px;">
+☠ ARCHIVE PASSWORD ☠<br>
+silence1To
+</h1>
 
 
 ---

@@ -68,6 +68,16 @@ The script is open source and free to use, modify, and redistribute.
 نظراً لأن الخريطة محمية بإعدادات أمنية، فإن بعض الميزات مثل وضع الإله موجودة في وضع التطوير.  
 السكربت مفتوح المصدر، ويمكنك استخدامه وتعديله وإعادة نشره بحرية كاملة.
 
+
+
+<p align="center">
+  <a href="https://github.com/USERNAME/REPO/releases/latest">
+    <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/assets/download.png" alt="DOWNLOAD" width="420">
+  </a>
+</p>
+
+
+
 ---
 
 ## ⭐ Support

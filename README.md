@@ -1,5 +1,8 @@
 # 🌊 Escape Tsunami For Brainrots — Helper Script (Beta)
 
+<img width="1536" height="1024" alt="0ebb2fa3-f624-489a-bc96-82b995420386" src="https://github.com/user-attachments/assets/e8f25980-da49-4fb2-8340-a8fb4373cbed" />
+
+
 Open source helper script for **Escape Tsunami For Brainrots**.  
 Designed to improve gameplay comfort and provide useful features where possible.
 

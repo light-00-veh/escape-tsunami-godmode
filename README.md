@@ -44,7 +44,8 @@ As long as you keep the license and copyright notice.
 
 🎥 Follow development, updates, and future releases here:
 
-👉 **YouTube:**  
+👉 **YouTube:**
+[SILENS_MODE](https://www.youtube.com/@SILENS_MODE)
 
 ---
 

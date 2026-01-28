@@ -45,8 +45,12 @@ As long as you keep the license and copyright notice.
 🎥 Follow development, updates, and future releases here:
 
 👉 **YouTube:**
-[SILENS_MODE](https://www.youtube.com/@SILENS_MODE)
 
+<p align="center">
+  <a href="https://www.youtube.com/@SILENS_MODE">
+    <img src="https://github.com/light-00-veh/escape-tsunami-godmode/blob/main/assets/subscrib%D0%B5.png" alt="SUBSCRIBE" width="420">
+  </a>
+</p>
 ---
 
 ## 🤝 Contributions
